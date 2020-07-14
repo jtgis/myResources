@@ -1,7 +1,7 @@
 # gisResources
 GIS tools, data, and guides by others that I find useful.
 
-#Courses
+# Courses
 
 https://www.e-education.psu.edu/geog485/node/91
 
@@ -9,11 +9,11 @@ https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md
 
 https://github.com/ossu/computer-science#introduction-to-computer-science
 
-#Data
+# Data
 
-#Tools
+# Tools
 
-#Websites
+# Websites
 
 https://gis.stackexchange.com/
 
@@ -21,7 +21,7 @@ https://www.reddit.com/r/gis/
 
 https://gogeomatics.ca/
 
-#Jobs
+# Jobs
 
 https://gogeomatics.ca/jobs/
 
