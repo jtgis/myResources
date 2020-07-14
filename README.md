@@ -9,6 +9,8 @@ https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md
 
 https://github.com/ossu/computer-science#introduction-to-computer-science
 
+https://gis.e-education.psu.edu/geowebdev
+
 # Data
 
 # Tools
