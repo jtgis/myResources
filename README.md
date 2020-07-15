@@ -11,6 +11,8 @@ https://github.com/ossu/computer-science#introduction-to-computer-science
 
 https://gis.e-education.psu.edu/geowebdev
 
+https://www.e-education.psu.edu/geog892/syllabus
+
 # Data
 
 # Tools
