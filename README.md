@@ -3,7 +3,7 @@ Tools, data, code, and guides by others that I find useful. Mostly GIS related.
 
 # Courses
 
-https://www.e-education.psu.edu/geog485/node/91
+https://www.e-education.psu.edu/geog485/node/91 -automatic!
 
 https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md
 
