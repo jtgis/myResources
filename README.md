@@ -3,7 +3,7 @@ Tools, data, code, and guides by others that I find useful. Mostly GIS related.
 
 # Courses
 
-https://www.e-education.psu.edu/geog485/node/91 -automatic!
+https://www.e-education.psu.edu/geog485/node/91
 
 https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md
 
@@ -13,9 +13,25 @@ https://gis.e-education.psu.edu/geowebdev
 
 https://www.e-education.psu.edu/geog892/syllabus
 
+https://www.e-education.psu.edu/geog892/syllabus
+
+https://www.coursera.org/learn/python-crash-course
+
 # Data
 
+http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
+
+https://www.openstreetmap.org/
+
+https://www.nrcan.gc.ca/science-data/science-research/earth-sciences/geography/topographic-information/10785
+
 # Tools
+
+https://www.opendronemap.org/webodm/
+
+https://qgis.org/en/site/
+
+https://postgis.net/
 
 # Websites
 
