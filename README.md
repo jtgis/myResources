@@ -17,6 +17,8 @@ https://www.e-education.psu.edu/geog892/syllabus
 
 https://www.coursera.org/learn/python-crash-course
 
+https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+
 # Data
 
 http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
