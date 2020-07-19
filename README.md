@@ -19,6 +19,12 @@ https://www.coursera.org/learn/python-crash-course
 
 https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
 
+https://teachyourselfcs.com/
+
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+https://web.mit.edu/alexmv/6.037/sicp.pdf
+
 # Data
 
 http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
