@@ -35,6 +35,8 @@ https://qgis.org/en/site/
 
 https://postgis.net/
 
+https://education.github.com/pack
+
 # Websites
 
 https://gis.stackexchange.com/
