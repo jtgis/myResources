@@ -25,6 +25,8 @@ http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 https://web.mit.edu/alexmv/6.037/sicp.pdf
 
+https://expertain.net/a-method-for-acquiring-new-technical-skills/
+
 # Data
 
 http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
